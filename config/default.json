@@ -1,0 +1,3 @@
+{
+  "mongodbConnection": "mongodb+srv://root:toor@personaldetails.1sq6c.mongodb.net/pddb?retryWrites=true&w=majority"
+}
